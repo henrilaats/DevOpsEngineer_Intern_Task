@@ -1,7 +1,6 @@
 import requests
 import tkinter as tk
 from tkinter import ttk, font
-import decimal
 
 # Setup
 API_KEY = "2c11b2de4dmshc9f9db90d75a981p1b09e1jsnc0a6d14694d2"
